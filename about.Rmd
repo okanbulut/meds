@@ -1,9 +1,17 @@
 ---
-title: "About this blog"
+title: "About MEDS"
 description: |
-  Some additional details about the blog
+  News and updates on the MEDS program
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+[Measurement, Evaluation, and Data Science (MEDS)](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) is Canada's largest graduate program focusing on educational measurement, evaluation, and data science, with four full-time faculty members and a large alumni network around the world.
+
+
+The MEDS program welcomes students to a supportive and collaborative environment, where they become an integral part of innovative research conducted by the MEDS faculty members. Students studying in MEDS find a broad range of theoretical and applied learning opportunities through research and teaching assistantships, internships, and statistical consulting.
+
+
+For more details, please check out our website: <https://sites.google.com/ualberta.ca/meds>

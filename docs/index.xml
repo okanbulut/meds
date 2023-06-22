@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>MEDS</title>
+    <link>https://okanbulut.github.io/meds</link>
+    <atom:link href="https://okanbulut.github.io/meds/index.xml" rel="self" type="application/rss+xml"/>
+    <description>News and updates about the MEDS program
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Congratulations to Recent MEDS Graduates!</title>
+      <dc:creator>Okan Bulut</dc:creator>
+      <link>https://okanbulut.github.io/meds/posts/2023-06-22-congratulations-to-recent-meds-graduates</link>
+      <description>A hearty congratulations to our recent graduates for completing 
+their PhD in the MEDS program. Check out the details here.</description>
+      <guid>https://okanbulut.github.io/meds/posts/2023-06-22-congratulations-to-recent-meds-graduates</guid>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://okanbulut.github.io/meds/posts/2023-06-22-congratulations-to-recent-meds-graduates/graduate.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Welcome to the New MEDS Website</title>
+      <dc:creator>Okan Bulut</dc:creator>
+      <link>https://okanbulut.github.io/meds/posts/2023-06-22-welcome-to-the-new-meds-website</link>
+      <description>Have you checked out our new website yet? We’re excited to announce 
+that the new MEDS website has been launched, built from the ground up 
+with a fresh look! Check out the details here.</description>
+      <guid>https://okanbulut.github.io/meds/posts/2023-06-22-welcome-to-the-new-meds-website</guid>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://okanbulut.github.io/meds/posts/2023-06-22-welcome-to-the-new-meds-website/img1.png" medium="image" type="image/png" width="1049" height="720"/>
+    </item>
+  </channel>
+</rss>

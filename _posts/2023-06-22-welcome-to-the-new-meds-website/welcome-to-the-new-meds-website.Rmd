@@ -1,0 +1,43 @@
+---
+title: "Welcome to the New MEDS Website"
+description: |
+  Have you checked out our new website yet? We’re excited to announce 
+  that the new MEDS website has been launched, built from the ground up 
+  with a fresh look! Check out the details here.
+author:
+  - name: Okan Bulut
+    url: http://www.okanbulut.com/
+    affiliation: University of Alberta
+    affiliation_url: https://www.ualberta.ca
+    orcid_id: 0000-0001-5853-1267
+date: 2023-06-22
+preview: img1.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+
+![](img1.png)
+</center>
+
+# New Website Announcement
+
+Have you checked out our new website yet?
+
+We’re excited to announce that the new MEDS website has been launched, built from the ground up with a fresh look!
+
+<center>
+
+<https://sites.google.com/ualberta.ca/meds>
+
+</center>
+
+The new website provides most recent information on the MEDS program, including our graduate courses, program-related news, and many resources for current and prospective students. 
+

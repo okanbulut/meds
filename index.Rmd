@@ -1,5 +1,5 @@
 ---
-title: "MEDS News"
+title: "MEDS News & Updates"
 site: distill::distill_website
 listing: posts
 ---

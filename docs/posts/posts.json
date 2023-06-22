@@ -1,19 +1,38 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to MEDS News",
-    "description": "Welcome to our new blog, MEDS News. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2023-06-22-congratulations-to-recent-meds-graduates/",
+    "title": "Congratulations to Recent MEDS Graduates!",
+    "description": "A hearty congratulations to our recent graduates for completing \ntheir PhD in the MEDS program. Check out the details here.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Okan Bulut",
+        "url": "http://www.okanbulut.com/"
       }
     ],
-    "date": "2023-06-21",
+    "date": "2023-06-22",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-06-21T19:36:47-06:00",
+    "contents": "\r\n\r\n\r\nCongratulations to Recent MEDS Graduates!\r\nA hearty congratulations to our recent graduates for completing their Ph.D. in the MEDS program:\r\nDr. Seyma N. Yildirim-Erbasli (Assistant Professor at Concordia University of Edmonton)\r\nDr. Tahereh Firoozi (Senior Psychometrician at Alberta Education)\r\nDr. Yizhu Gao (Senior Data Analyst at Ministry of Children’s Services, Government of Alberta)\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-06-22-congratulations-to-recent-meds-graduates/graduate.jpg",
+    "last_modified": "2023-06-22T11:05:09-06:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2023-06-22-welcome-to-the-new-meds-website/",
+    "title": "Welcome to the New MEDS Website",
+    "description": "Have you checked out our new website yet? We’re excited to announce \nthat the new MEDS website has been launched, built from the ground up \nwith a fresh look! Check out the details here.",
+    "author": [
+      {
+        "name": "Okan Bulut",
+        "url": "http://www.okanbulut.com/"
+      }
+    ],
+    "date": "2023-06-22",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nNew Website Announcement\r\nHave you checked out our new website yet?\r\nWe’re excited to announce that the new MEDS website has been launched, built from the ground up with a fresh look!\r\n\r\nhttps://sites.google.com/ualberta.ca/meds\r\n\r\nThe new website provides most recent information on the MEDS program, including our graduate courses, program-related news, and many resources for current and prospective students.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-06-22-welcome-to-the-new-meds-website/img1.png",
+    "last_modified": "2023-06-22T11:04:46-06:00",
+    "input_file": {},
+    "preview_width": 1049,
+    "preview_height": 720
   }
 ]

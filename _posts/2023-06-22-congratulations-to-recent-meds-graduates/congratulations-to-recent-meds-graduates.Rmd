@@ -1,0 +1,40 @@
+---
+title: "Congratulations to Recent MEDS Graduates!"
+description: |
+  A hearty congratulations to our recent graduates for completing 
+  their PhD in the MEDS program. Check out the details here.
+author:
+  - name: Okan Bulut
+    url: http://www.okanbulut.com/
+    affiliation: University of Alberta
+    affiliation_url: https://www.ualberta.ca
+    orcid_id: 0000-0001-5853-1267
+date: 2023-06-22
+preview: graduate.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+
+![](graduate.jpg)
+</center>
+
+# Congratulations to Recent MEDS Graduates!
+
+A hearty congratulations to our recent graduates for completing their Ph.D. in the MEDS program:
+
+* Dr. Seyma N. Yildirim-Erbasli (Assistant Professor at Concordia University of Edmonton)
+
+* Dr. Tahereh Firoozi (Senior Psychometrician at Alberta Education)
+
+* Dr. Yizhu Gao (Senior Data Analyst at Ministry of Children’s Services, Government of Alberta)
+
+
+

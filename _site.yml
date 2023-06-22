@@ -1,12 +1,15 @@
 name: "meds"
-title: "MEDS News & Updates"
+title: "MEDS"
+theme: theme.css
 description: |
   News and updates about the MEDS program
+base_url: https://okanbulut.github.io/meds
+creative_commons: CC BY
 output_dir: "docs"
 navbar:
   logo:
     image: images/UA_Logo_WHT_RGB.png
-    href: https://www.ualberta.ca
+    href: https://www.ualberta.ca/
   right:
     - text: "Home"
       href: index.html
