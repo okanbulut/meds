@@ -1,9 +1,12 @@
 name: "meds"
-title: "MEDS News"
+title: "MEDS News & Updates"
 description: |
-  MEDS News
-output_dir: "_site"
+  News and updates about the MEDS program
+output_dir: "docs"
 navbar:
+  logo:
+    image: images/UA_Logo_WHT_RGB.png
+    href: https://www.ualberta.ca
   right:
     - text: "Home"
       href: index.html
