@@ -21,6 +21,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+[**GO BACK TO ALL POSTS**](https://okanbulut.github.io/meds/)
+
 # Congratulations to Recent MEDS Graduates!
 
 A hearty congratulations to our recent graduates for completing their Ph.D. in the MEDS program:
@@ -30,6 +32,5 @@ A hearty congratulations to our recent graduates for completing their Ph.D. in t
 * Dr. Tahereh Firoozi (Senior Psychometrician at Alberta Education)
 
 * Dr. Yizhu Gao (Senior Data Analyst at Ministry of Children’s Services, Government of Alberta)
-
 
 

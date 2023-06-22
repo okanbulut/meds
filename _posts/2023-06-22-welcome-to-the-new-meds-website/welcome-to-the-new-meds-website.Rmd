@@ -22,10 +22,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<center>
-
-![](img1.png)
-</center>
+[**GO BACK TO ALL POSTS**](https://okanbulut.github.io/meds/)
 
 # New Website Announcement
 
@@ -39,5 +36,5 @@ We’re excited to announce that the new MEDS website has been launched, built f
 
 </center>
 
-The new website provides most recent information on the MEDS program, including our graduate courses, program-related news, and many resources for current and prospective students. 
+The new website provides most recent information on the MEDS program, including our graduate courses, program-related news, and many resources for current and prospective students. Please check out our website for up-to-date information about MEDS.
 

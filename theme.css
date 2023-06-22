@@ -11,8 +11,6 @@
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
 
-
-
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
@@ -74,13 +72,15 @@ d-appendix {
 }
 
 /*-- Additional custom styles --*/
-/* Add any additional CSS rules below                      */
 
-.distill-site-header .logo img {
-   display: inline-block;
-   background-size: 100% auto;
-   background-repeat: no-repeat;
-   max-height: 45px;
-   width: auto;
-   vertical-align: bottom;
- }
+.distill-site-header { 
+  letter-spacing: 2px;
+  padding:20px 20px;
+  right: 0;
+}
+
+
+
+
+
+
