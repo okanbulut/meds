@@ -1,7 +1,5 @@
 ---
-title: "About MEDS"
-description: |
-  News and updates on the MEDS program
+title: "About the MEDS Program"
 ---
 
 ```{r setup, include=FALSE}
