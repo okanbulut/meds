@@ -21,11 +21,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<center>
-
-![](graduate.jpg)
-</center>
-
 # Congratulations to Recent MEDS Graduates!
 
 A hearty congratulations to our recent graduates for completing their Ph.D. in the MEDS program:
