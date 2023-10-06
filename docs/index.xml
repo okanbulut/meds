@@ -7,7 +7,16 @@
     <description>News and updates about the MEDS program
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Fall 2023</title>
+      <dc:creator>Okan Bulut</dc:creator>
+      <link>https://okanbulut.github.io/meds/posts/2023-10-06-welcome-to-fall-2023</link>
+      <description>Welcoming MEDS students to the Fall semester with a special gathering at Rosso Pizzeria. With the changing colors of campus serving as a poignant backdrop, we share our excitement for the academic year ahead and offer our sincere wishes for the success of every student.</description>
+      <guid>https://okanbulut.github.io/meds/posts/2023-10-06-welcome-to-fall-2023</guid>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://okanbulut.github.io/meds/posts/2023-10-06-welcome-to-fall-2023/meds_photo_fall2023.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Congratulations to Recent MEDS Graduates!</title>
       <dc:creator>Okan Bulut</dc:creator>
