@@ -7,7 +7,16 @@
     <description>News and updates about the MEDS program
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>End-of-Year Celebration</title>
+      <dc:creator>Okan Bulut</dc:creator>
+      <link>https://okanbulut.github.io/meds/posts/2023-12-15-end-of-year-celebration</link>
+      <description>We celebrated the close of a remarkable Fall semester at the MEDS program. Our recent end-of-year gathering was a festive occasion where faculty members and graduate students came together to reflect on a myriad of achievements.</description>
+      <guid>https://okanbulut.github.io/meds/posts/2023-12-15-end-of-year-celebration</guid>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://okanbulut.github.io/meds/posts/2023-12-15-end-of-year-celebration/fall2023_end_end_year.jpeg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Welcome to Fall 2023</title>
       <dc:creator>Okan Bulut</dc:creator>
