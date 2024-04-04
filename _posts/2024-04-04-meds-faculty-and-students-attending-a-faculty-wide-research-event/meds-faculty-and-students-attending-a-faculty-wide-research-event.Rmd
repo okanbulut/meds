@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 More than 60 poster presentations spanning every program area, institute and centre in the Faculty, as well as three live presentations, attested to the sweeping depth and breadth of research taking place here, and demonstrated that socially transformative research and teaching is no mere catchphrase but a promise made good by incredible scholars and students in the Faculty of Education. The attendees, including President Bill Flanagan and Provost Verna Yiu, had the opportunity to participate in wonderful conversations and festive atmosphere enabled by the event.
 
-MEDS faculty members (Drs. Okan Bulut and Mark Gierl) and graduate students also attended the event and presented their research. Also. Dr. Okan Bulut was recognized as the recipient of the Martha Cook Piper Research Prize at the University of Alberta. We are happy to share some photos from the event, as well as the wonderful posters presented by our gradute students. 
+MEDS faculty members (Drs. Okan Bulut and Mark Gierl) and graduate students also attended the event and presented their research. Also, Dr. Okan Bulut was recognized as the recipient of the Martha Cook Piper Research Prize at the University of Alberta. We are happy to share some photos from the event, as well as the wonderful posters presented by our graduate students. 
 
 Best regards,
 
