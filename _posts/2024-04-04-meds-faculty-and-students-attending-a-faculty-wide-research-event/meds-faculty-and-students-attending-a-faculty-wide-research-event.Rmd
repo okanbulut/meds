@@ -1,0 +1,58 @@
+---
+title: "MEDS Faculty and Students Attending a Research Event"
+description: |
+  MEDS faculty and graduate students recently attended a faculty-wide research event and presented their research. 
+author:
+  - name: Okan Bulut
+    url: http://www.okanbulut.com/
+    affiliation: University of Alberta
+    affiliation_url: https://www.ualberta.ca
+    orcid_id: 0000-0001-5853-1267
+date: 2024-04-04
+preview: uofa.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[**GO BACK TO ALL POSTS**](https://okanbulut.github.io/meds/)
+
+
+# MEDS Faculty and Students at the Faculty of Education Research Event
+
+[The Faculty of Education](https://www.ualberta.ca/education/index.html) recently organized a research event, *Celebrating Socially Transformative Research and Teaching 2024*, to showcase the breadth and depth of research conducted by faculty members and students. The event, the first in-person showcase of Faculty-wide research and teaching excellence of the 2020s, took place on Thursday, March 28 in the 4th floor lounge of Education Centre North. 
+
+More than 60 poster presentations spanning every program area, institute and centre in the Faculty, as well as three live presentations, attested to the sweeping depth and breadth of research taking place here, and demonstrated that socially transformative research and teaching is no mere catchphrase but a promise made good by incredible scholars and students in the Faculty of Education. The attendees, including President Bill Flanagan and Provost Verna Yiu, had the opportunity to participate in wonderful conversations and festive atmosphere enabled by the event.
+
+MEDS faculty members (Drs. Okan Bulut and Mark Gierl) and graduate students also attended the event and presented their research. Also. Dr. Okan Bulut was recognized as the recipient of the Martha Cook Piper Research Prize at the University of Alberta. We are happy to share some photos from the event, as well as the wonderful posters presented by our gradute students. 
+
+Best regards,
+
+Okan Bulut  
+Associate Professor  
+University of Alberta
+
+***
+
+![MEDS Poster #1](poster1.png)
+
+![MEDS Poster #2](poster2.png)
+
+![MEDS Poster #3](poster3.png)
+
+![MEDS Students (from left to right): Bin, Nour, and Elisabetta](PXL_20240328_212216153.jpg)
+
+![MEDS Students (from left to right): Doris, Nour, and Aysegul](PXL_20240328_212109999.jpg)
+
+![MEDS Students: Tarid](PXL_20240328_212034872.jpg)
+
+![Dr. Bulut and Dean Tupper](IMG-20240328-WA0003.jpg)
+
+![Dr. Bulut and MEDS Graduate Students](IMG-20240328-WA0011.jpg)
+
+
+
